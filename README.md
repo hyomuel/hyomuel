@@ -26,7 +26,7 @@
 ---
 
 ## 💻 주요 기술 스택
-
+<details>
 ### 🛠️ 개발 도구 및 환경
 <p>
   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual Studio">
@@ -77,7 +77,7 @@
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows">
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android">
 </p>
-
+</details>
 ---
 
 ## ✨ 진행 중인 프로젝트
